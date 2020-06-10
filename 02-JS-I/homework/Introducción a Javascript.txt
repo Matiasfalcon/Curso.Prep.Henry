@@ -1,0 +1,12 @@
+# Homework: Introducción a Javascript
+
+* Variables:Una variable es como una "Caja" donde podemos almacenar información para ser utilizada cuando lo dispongamos.
+
+* Strings:Un String es una concatenación de caracteres que componen una cadena de texto, se definen con comillas.
+
+* Funciones (argumentos, `return`):Es un tipo particular de objeto que sirve para cumplir un determinado objetivo, sirven para hacer calculos o modificar variables según determinado "tratamiento" de los datos pasados como argumento.
+Los argumentos son variables, números, Strings, etc. pasados a la función a travez de los parentecis. El "return" es una declaración que sirve para que la función devuelva algo al programa que la ejecuta, es una manera de que la función expulse determinado dato. Una vez llegado a una declaración return, la función corta automaticamente el flujo y termina.
+
+* Declaraciones `if`: Es una palabra reservada que nos permite controlar el flujo del programa aplicando algun tipo de condición especifica.
+
+* Valores booleanos (`true`, `false`): Son valores que solo pueden tener dos estados, verdadero o falso.

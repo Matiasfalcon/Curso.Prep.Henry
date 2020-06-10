@@ -5,6 +5,13 @@ function obtenerMayor(x, y) {
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
+  if (x < y) {
+    return y;
+  } else if(y < x) {
+    return x;
+  } else {
+    return x;
+  }
 }
 
 function saludo(idioma) {
@@ -14,12 +21,26 @@ function saludo(idioma) {
   // Si "idioma" es "ingles", devuelve "Hello!"
   // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
   // Tu código:
+  if (idioma === "aleman") {
+    return "Guten tag!";
+  }else if (idioma === "mandarin"){
+    return "Ni Hao!";
+  }else if (idioma === "ingles"){
+    return "Hello!";
+  }else{
+    return "Hola!";
+  }
 }
 
 function esDiezOCinco(numero) {
     // Devuelve "true" si "numero" es 10 o 5
     // De lo contrario, devuelve "false"
     // Tu código:
+    if (numero === 10 || numero === 5) {
+      return true;
+    } else{
+      return false;
+    }
 }
 
 function estaEnRango(numero) {
