@@ -1,0 +1,5 @@
+# Homework: Javascript II
+
+* `for`: Es un bucle que nos permite evaluar, una determinada cantidad de veces, alguna condición.
+
+* `&&`, `||`, `!`: Son operadores lógicos que sirven para corroborar si algo es verdadero, falso o diferente de.
