@@ -1,0 +1,3 @@
+# Homework: Javascript III
+
+* Arrays: Un array es una colección de datos, estos pueden ser de cualquier tipo, incluso funciones u otros arrays.
