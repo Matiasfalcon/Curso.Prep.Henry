@@ -1,0 +1,19 @@
+Javascript IV
+
+
+* Objetos: Es la reperesentación de un objeto real pero en programación,
+estos contienen diferentes valores como si fueran un array pero que utilizan
+un concepto llamado clave:valor (key:value), mientras que los arrays usan indices.
+
+* Propiedades: Son las caracteristicas de los objetos. Los valores internos que estan almacenados
+en la misma.
+
+* Métodos: Son las funciones que tienen los objetos, solo que una función dentro de un objeto
+se denomina método.
+
+* Bucle `for…in`: Es una variante del bucle for, es como un for each en Java. Itera de manera arbitraria
+sobre todos los elementos de un objeto. Recorre por claves del objeto (key:value) y no por indice como un for normal.
+
+* Notación de puntos vs notación de corchetes: la notación de corchetes podemos usar cadenas de texto para llamar a la propiedad o función y se puede pasar
+el nombre de una variable tambien.
+con la notacion de punto se escribe mas rapido y prolijo pero no es tan flexible.
