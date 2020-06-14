@@ -1,0 +1,4 @@
+# Homework: Javascript VI
+
+* Funciones Callback: Se llama asi a las funciones que se pasan como parametro de otras
+funciones.
