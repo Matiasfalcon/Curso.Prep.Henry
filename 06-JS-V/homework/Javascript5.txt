@@ -1,0 +1,5 @@
+# Homework: Javascript V
+
+* `prototype`: Es una manera de ahorra memoria permitiendo que cada objeto de las clases puedan acceder a los metodos establecidos una vez.
+
+* _Constructors_ (de Clases): Es la manera en que se define una plantilla de un objeto, sirve para crear muchos objetos que comparten algunas propiedades y metodos.

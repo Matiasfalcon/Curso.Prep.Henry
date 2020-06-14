@@ -1,4 +1,4 @@
-# Homework: Javascript V
+# Homework: Javascript VI
 
 ## Instrucciones
 ---
